@@ -1,0 +1,4 @@
+BMP 280 Code Read example
+Raspberry Pi Pico With BMP280 – MicroPython Guide
+https://electrocredible.com/bmp280-raspberry-pi-pico-micropython-guide/
+
